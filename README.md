@@ -1,4 +1,4 @@
-# IPTV CHECKER BOT
+# IPTV CHECKER BOT (GROUPS VERSION)
 
 ## ¿Qué hace este bot?
 El bot de Telegram comprueba el estado de listas IPTV mediante la Api de Xtream Codes. Después te devuelve la siguiente información:
