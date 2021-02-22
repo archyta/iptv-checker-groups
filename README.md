@@ -17,7 +17,7 @@ El bot de Telegram comprueba el estado de listas IPTV mediante la Api de Xtream 
 
 ## ¿Cómo funciona el bot?
 
-Tan solo tienes que enviarle en enlace de tu lista IPTV y el se encargará del resto. Solo funciona con listas Xtream Codes
+Tan solo tienes que enviarle el comando /check seguido del enlace de tu lista IPTV y él se encargará del resto. Solo funciona con listas Xtream Codes
 
 
 ## ¿Tienes alguna lista IPTV?
